@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorenacevedo&label=Profile%20views&color=0e75b6&style=flat" alt="sorenacevedo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sorenacevedo" alt="sorenacevedo" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning, AI for medicine, React JS, Django, Flask**
 
 - 📫 How to reach me **sorenacevedo@gmail.com**
