@@ -2,8 +2,9 @@
 <h3 align="center">Biomedical engineer and Software Developer in process</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorenacevedo&label=Profile%20views&color=0e75b6&style=flat" alt="sorenacevedo" /> </p>
+- 🐍 I love python, and learn about differents things.
 
-- 🌱 I’m currently learning **Deep Learning, AI for medicine, React JS, Django, Flask**
+- 🌱 I’m currently learning **Deep Learning, AI for Medicine, React JS, Django, Flask**
 
 - 📫 How to reach me **sorenacevedo@gmail.com**
 
