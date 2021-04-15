@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sorenacevedo@gmail.com**
 
-- ⚡ Fun fact **I love to play guitar, play basketball**
+- ⚡ Fun fact **I love to play guitar and play basketball**
 
 
 <h3 align="center">Languages and Tools:</h3>
