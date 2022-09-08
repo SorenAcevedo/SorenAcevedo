@@ -12,6 +12,4 @@
 - ⚡ Fun fact **I love to play guitar and play basketball**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorenacevedo&show_icons=true&locale=en&layout=compact" alt="sorenacevedo" /></p>
-
 <!--- This Readme was created using https://rahuldkjain.github.io/gh-profile-readme-generator/ --->
