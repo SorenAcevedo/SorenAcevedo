@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soren Acevedo</h1>
 <h3 align="center">Biomedical engineer and Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sorenacevedo&label=Profile%20views&color=0e75b6&style=flat" alt="sorenacevedo" /> </p>
-
 - 🐍 I love python, and learn about differents things.
 
 - 🌱 I’m currently learning **Deep Learning, AI for Medicine, React JS, React Native, Django, Flask**
