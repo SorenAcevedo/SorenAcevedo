@@ -3,7 +3,7 @@
 
 - 🐍 I love python, and learn about differents things.
 
-- 🌱 I’m currently learning **Deep Learning, AI for Medicine, React JS, React Native, Django, Flask**
+- 🌱 I’m currently learning **Deep Learning, AI for Medicine, Data Science, React, Django, Flask, Next, Nest, Express**
 
 - 📫 How to reach me **sorenacevedo@gmail.com**
 
